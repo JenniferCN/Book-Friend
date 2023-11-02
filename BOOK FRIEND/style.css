@@ -1,0 +1,45 @@
+/* Cambiar el background de la página */
+.body {
+    /* color de fondo */
+    background-color: #f1baf3c4;
+    /* color de texto */
+    color: #251027;
+    /* fuente del texto */
+    font-family: 'Roboto Slab', serif;
+    /* borde gráfico : ancho estilo color  */
+    width: 98%;
+    margin: 10px auto; 
+
+} 
+
+.books {
+        width: 90%;
+    }
+      
+.carrusel {
+    margin: 0 auto;
+     width: 45%;
+}
+
+.dblock {
+    width: 100%;
+}
+h3{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+    background: #e9e6ee;
+    margin: 0 0 25px;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+    padding: 20px
+}
+
+
+.kirby-ancla{
+    width: 300px;
+    border-radius: 10px;
+}
+
